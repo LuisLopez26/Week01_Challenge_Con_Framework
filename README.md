@@ -1,1 +1,5 @@
 # Week01_Challenge_Con_Framework
+
+## Archivos a revisar: 
+Week01_Challenge_Con_Framework_LuisMaximilianoLopezRamirez.ipynb
+Week01_Challenge_Con_Framework_LuisMaximilianoLopezRamirez.pdf
